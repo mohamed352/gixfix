@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480485310598",
+    "project_id": "gix-fix-a539a",
+    "storage_bucket": "gix-fix-a539a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480485310598:android:a758b94a7fb3f5495ad107",
+        "android_client_info": {
+          "package_name": "com.big.sixamtech.sixam_mart_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlSoWv8ccl7bLpKs0WlE5m4lmJcYXpsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

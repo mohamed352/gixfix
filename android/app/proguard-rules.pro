@@ -1,0 +1,3 @@
+-keep class android.window.BackEvent { *; }
+-dontwarn android.window.BackEvent
+-keep class io.flutter.embedding.android.FlutterActivity { *; }
