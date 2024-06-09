@@ -16,7 +16,7 @@ class MapScreen extends StatefulWidget {
   final AddressModel address;
   final bool fromStore;
   final bool isFood;
-  const MapScreen({Key? key, required this.address, this.fromStore = false, this.isFood = false}) : super(key: key);
+  const MapScreen({super.key, required this.address, this.fromStore = false, this.isFood = false});
 
   @override
   MapScreenState createState() => MapScreenState();

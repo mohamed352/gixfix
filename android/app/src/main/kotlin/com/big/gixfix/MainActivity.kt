@@ -1,4 +1,4 @@
-package com.big.sixamtech.sixam_mart_user
+package com.big.gixfix
 
 import io.flutter.embedding.android.FlutterActivity
 
